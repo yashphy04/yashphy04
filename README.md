@@ -7,6 +7,15 @@
 
 ---
 
+## 📈 GitHub Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashphy04&show_icons=true&theme=github_dark" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashphy04&layout=compact&theme=github_dark" width="400" />
+</p>
+
+---
+
 - 🔭 Currently working on **DevOps projects and backend development**
 - 🌱 Learning **Docker, Jenkins, Kubernetes, Cloud & Automation**
 - 💬 Ask me about **Java, Python, SQL, and DevOps tools**
@@ -36,15 +45,6 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" width="100"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" width="100"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" width="100"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashphy04&show_icons=true&theme=github_dark" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashphy04&layout=compact&theme=github_dark" width="400" />
 </p>
 
 ---
