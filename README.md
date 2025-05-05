@@ -1,16 +1,89 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yash Raj</h1>
+<h3 align="center">Aspiring DevOps Engineer | Java Developer | Open Source Enthusiast</h3>
 
-<!--
-**yashphy04/yashphy04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashphy04&label=Profile%20views&color=0e75b6&style=flat" alt="yashphy04" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on **DevOps projects and backend development**
+- 🌱 Learning **Docker, Jenkins, Kubernetes, Cloud & Automation**
+- 💬 Ask me about **Java, Python, SQL, and DevOps tools**
+- 📫 Reach me at: **yashraj.phy@gmail.com**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yash-raj-83401ya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yashraj.phy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashphy04&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashphy04&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## 🔥 GitHub Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashphy04&theme=github-dark-blue" />
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/yashphy04/yashphy04/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashphy04&theme=github-compact" />
+</p>
+
+---
+
+## 🎯 Currently Learning
+
+- CI/CD Pipelines
+- Docker, Jenkins, Kubernetes
+- Cloud Platforms (AWS, GCP)
+- Infrastructure as Code (Terraform)
+
+---
+
+## 💡 Quote
+
+> “Stay curious. Stay humble. Keep building.”
+
+---
