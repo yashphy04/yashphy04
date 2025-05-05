@@ -16,12 +16,12 @@
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/yash-raj-83401ya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" width="150"/>
   </a>
   <a href="mailto:yashraj.phy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" width="150"/>
   </a>
 </p>
 
@@ -29,13 +29,13 @@
 
 ## 🛠️ Languages and Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" width="100"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" width="100"/>
 </p>
 
 ---
@@ -43,8 +43,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashphy04&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashphy04&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashphy04&show_icons=true&theme=github_dark" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashphy04&layout=compact&theme=github_dark" width="400" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ## 🔥 GitHub Streaks
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashphy04&theme=github-dark-blue" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashphy04&theme=github-dark-blue" width="600" />
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/yashphy04/yashphy04/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/yashphy04/yashphy04/raw/output/github-contribution-grid-snake.svg" alt="snake animation" width="600" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ## 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashphy04&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashphy04&theme=github-compact" width="800" />
 </p>
 
 ---
@@ -85,5 +85,3 @@
 ## 💡 Quote
 
 > “Stay curious. Stay humble. Keep building.”
-
----
