@@ -16,6 +16,14 @@
 
 ---
 
+## 🔥 GitHub Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashphy04&theme=github-dark-blue" width="600" />
+</p>
+
+---
+
 - 🔭 Currently working on **DevOps projects and backend development**
 - 🌱 Learning **Docker, Jenkins, Kubernetes, Cloud & Automation**
 - 💬 Ask me about **Java, Python, SQL, and DevOps tools**
@@ -27,13 +35,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-raj-83401ya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" width="150"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" width="120" style="border-radius:10px;" />
   </a>
   <a href="mailto:yashraj.phy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" width="150"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" width="120" style="border-radius:10px;" />
   </a>
   <a href="https://portfolio1-khaki-iota.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" width="150"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" width="120" style="border-radius:10px;" />
+  </a>
+  <a href="https://leetcode.com/u/user4233Ba/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" width="120" style="border-radius:10px;" />
   </a>
 </p>
 
@@ -42,20 +53,12 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" width="100"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" width="100"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" width="100"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" width="100"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" width="100"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" width="100"/>
-</p>
-
----
-
-## 🔥 GitHub Streaks
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashphy04&theme=github-dark-blue" width="600" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" width="120" style="border-radius:10px;" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" width="120" style="border-radius:10px;" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" width="120" style="border-radius:10px;" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" width="120" style="border-radius:10px;" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" width="120" style="border-radius:10px;" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" width="120" style="border-radius:10px;" />
 </p>
 
 ---
