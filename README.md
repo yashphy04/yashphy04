@@ -63,13 +63,6 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/yashphy04/yashphy04/raw/output/github-contribution-grid-snake.svg" alt="snake animation" width="600" />
-</p>
-
----
 
 ## 📊 GitHub Activity Graph
 
