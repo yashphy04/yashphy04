@@ -32,6 +32,9 @@
   <a href="mailto:yashraj.phy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" width="150"/>
   </a>
+  <a href="https://portfolio1-khaki-iota.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" width="150"/>
+  </a>
 </p>
 
 ---
