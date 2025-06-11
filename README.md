@@ -73,9 +73,13 @@
 
 ## 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yashphy04/yashphy04/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+
+
+<!-- Snake -->
+<div align="center">
+  
+  ![snake gif](https://github.com/Shivi7757/Shivi7757/blob/output/github-snake-dark.svg)
+</div>
 
 ---
 
