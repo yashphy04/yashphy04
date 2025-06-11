@@ -31,16 +31,6 @@
 
 ---
 
-## 🎮 Play My Snake Game!
-
-<p align="center">
-  <a href="https://yashphy04.github.io/snake-game/" target="_blank">
-    <img src="https://img.shields.io/badge/Snake%20Game-Play%20Now-green?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
