@@ -31,6 +31,16 @@
 
 ---
 
+## 🎮 Play My Snake Game!
+
+<p align="center">
+  <a href="https://yashphy04.github.io/snake-game/" target="_blank">
+    <img src="https://img.shields.io/badge/Snake%20Game-Play%20Now-green?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -70,7 +80,6 @@
 </p>
 
 ---
----
 
 ## 🐍 GitHub Contribution Snake
 
@@ -78,6 +87,7 @@
   <img src="https://raw.githubusercontent.com/yashphy04/yashphy04/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
+---
 
 ## 🎯 Currently Learning
 
