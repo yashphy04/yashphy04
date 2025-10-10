@@ -40,7 +40,7 @@
   <a href="mailto:yashraj.phy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://portfolio1-khaki-iota.vercel.app/" target="_blank">
+  <a href="https://new-portfolio-teal-three.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/user4233Ba/" target="_blank">
