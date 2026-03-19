@@ -85,9 +85,10 @@
 
 ## 🎯 Currently Learning
 
-- CI/CD Pipelines
-- Docker, Jenkins, Kubernetes
-- Cloud Platforms (AWS, GCP)
+- Git & GitHub (Version Control, Branching, Project Management)
+- CI/CD Pipelines (GitHub Actions, Jenkins)
+- Docker & Kubernetes (Containerization & Orchestration)
+- Cloud Platforms (AWS – EC2, S3 basics)
 - Infrastructure as Code (Terraform)
 
 ---
