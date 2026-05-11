@@ -24,9 +24,9 @@
 
 ---
 
-- 🔭 Currently working on **DevOps projects and backend development**
+- 🔭 Currently working on **RealWorld projects and backend development**
 - 🌱 Learning **Docker, Jenkins, Kubernetes, Cloud & Automation**
-- 💬 Ask me about **Java, Python, SQL, and DevOps tools**
+- 💬 Ask me about **Java, Python, SQL**
 - 📫 Reach me at: **yashraj.phy@gmail.com**
 
 ---
@@ -86,7 +86,6 @@
 ## 🎯 Currently Learning
 
 - Git & GitHub (Version Control, Branching, Project Management)
-- CI/CD Pipelines (GitHub Actions, Jenkins)
 - Docker & Kubernetes (Containerization & Orchestration)
 - Cloud Platforms (AWS – EC2, S3 basics)
 - Infrastructure as Code (Terraform)
